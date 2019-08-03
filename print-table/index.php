@@ -3,6 +3,12 @@
 	<meta charset="UTF-8">
 	<title>Table Calc</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<style>
+		h2 {
+			background-color: #000000BF;
+			color: #FFF;
+		}
+	</style>
 </head>
 <body>
 	<div class="container">
